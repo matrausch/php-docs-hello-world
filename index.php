@@ -3,7 +3,7 @@
 <head>
   <title>Hello Hello</title>
   <style type="text/css">
-    h1, h2 { color: rgba(255,255,255,128) }
+    h1, h2 { color: rgba(255,255,255,0.5) }
     body { background-color: black }
   </style>
 </head>
